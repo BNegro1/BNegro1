@@ -1,10 +1,9 @@
-<h3 align="center">Apasionado por Python</h3>
+<h3 align="center">BNegro - Wal-Wandering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bnegro1&label=Profile%20views&color=0e75b6&style=flat-square" alt="bnegro1" /> </p>
 
 - 🌱 Actualmente estudiando **HTML, CSS, JavaScript**
-
-<h3 align="left">Connect with me:</h3>
+- 👁️ Eterno ignorante.
 <p align="left">
 </p>
 
