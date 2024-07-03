@@ -1,6 +1,6 @@
 <h3 align="center">BNegro - Wal-Wandering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bnegro1&label=Profile%20views&color=0e75b6&style=flat-square" alt="bnegro1" /> </p>
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 - 🌱 Actualmente estudiando **HTML, CSS, JavaScript**
 - 👁️ Eterno ignorante.
