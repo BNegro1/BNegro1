@@ -1,7 +1,5 @@
 <h3 align="center">BNegro - Wal-Wandering</h3>
 
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-
 - 🌱 Actualmente estudiando **HTML, CSS, JavaScript**
 - 👁️ Eterno ignorante.
 <p align="left">
