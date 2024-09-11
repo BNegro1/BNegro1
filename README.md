@@ -1,7 +1,8 @@
 <h3 align="center">BNegro - Wal-Wandering</h3>
 
-- 🌱 Actualmente estudiando **HTML, CSS, JavaScript**
-- 👁️ Eterno ignorante.
+- 🌱 Actualmente estudiando **Pandas, Django y TypeScript**
+- 👁️ Eterno ignorante (Ref.).
+- 🦦❣️
 <p align="left">
 </p>
 
