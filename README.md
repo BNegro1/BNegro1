@@ -1,7 +1,5 @@
-<h3 align="center">BNegro - Wal-Wandering</h3>
+<h3 align="center">Walter</h3>
 
-- 🌱 Growing knowledge!
-- 👁️ Eterno ignorante (Ref.).
 - 🦦❣️
 <p align="left">
 </p>
