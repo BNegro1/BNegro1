@@ -1,7 +1,33 @@
-<h3 align="center">Walter</h3>
-
-- 🦦❣️
-<p align="left">
+<h1 align="center">Walter Cataldo</h1>
+<h3 align="center">Analista Programador Computacional en formación</h3>
+<p align="center">
+  <a href="https://github.com/BNegro1">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="margin-right: 10px;">
+  </a>
+  <a href="mailto:wanderingg801@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
+  </a>
 </p>
 
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+## > ¿Acerca de mí?
+- Estudiante de Analista Programador en Duoc UC, Viña del Mar, con un enfoque tanto en Frontend como Backend.
+- Apasionado por la física aplicada, algoritmos complejos, teoría de grafos y análisis de datos.
+- Experiencia en diferentes tecnologías y herramientas.
+- Mi curiosidad y motivación me llevan a explorar nuevas tecnologías.
+
+
+## > Tecnologías y herramientas
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,bootstrap,python,java,fastapi,django,mysql,postgres,matlab,r,md" alt="Stack completo">
+  </a>
+</p>
+
+## > Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BNegro1&theme=prussian&hide_border=true" alt="Streak Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BNegro1&theme=prussian&show_icons=true&hide_border=true&layout=compact" alt="Top Languages">
+</div>
+<p align="center"> ¡Me guía y acompaña!: 🦦❣️</p>
