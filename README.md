@@ -24,9 +24,5 @@
   </a>
 </p>
 
-## > Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BNegro1&theme=prussian&hide_border=true" alt="Streak">
-  <br>
-</div>
+
 <p align="center"> ¡Me guía y acompaña!: 🦦❣️</p>
