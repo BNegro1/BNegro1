@@ -26,8 +26,7 @@
 
 ## > Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BNegro1&theme=prussian&hide_border=true" alt="Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BNegro1&theme=prussian&hide_border=true" alt="Streak">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BNegro1&theme=prussian&show_icons=true&hide_border=true&layout=compact" alt="Top Languages">
 </div>
 <p align="center"> ¡Me guía y acompaña!: 🦦❣️</p>
