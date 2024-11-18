@@ -1,4 +1,4 @@
-<h1 align="center">Walter Cataldo</h1>
+<h1 align="center">Hola, soy Walter.</h1>
 <h3 align="center">Analista Programador Computacional en formación</h3>
 <p align="center">
   <a href="https://github.com/BNegro1">
